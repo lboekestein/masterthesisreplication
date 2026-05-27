@@ -1,7 +1,7 @@
 """
 Dynamic.py
 
-Contains the DynamicModel class, which is a simple wrapper around a machine learning model (e.g. Random Forest) that can be trained on a specific train split of the data. 
+Contains the DynamicModel class, which is a wrapper around a machine learning model (e.g. Random Forest) that can be trained on a specific train split of the data. 
 The DynamicModelManager class manages multiple DynamicModels, each trained on a different train split of the data.
 
 """
